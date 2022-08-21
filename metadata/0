@@ -1,0 +1,15 @@
+{
+    "name": "Passport #0",
+    "description": "Passport with utility X",
+    "image": "https://ipfs.io/ipfs/Qma9AtRWVda35EFndnUSFdUUgvPgQtBWsz8kAWKBffAnBT",
+    "attributes": [
+        {
+            "trait_type": "Passport",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Dummy"
+        }
+    ]
+}
